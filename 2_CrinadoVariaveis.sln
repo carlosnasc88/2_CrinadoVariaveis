@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_CrinadoVariaveis", "2_CrinadoVariaveis\2_CrinadoVariaveis.csproj", "{01DF9735-FB32-4D4E-BB41-58CE6200F9B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_2_CrinadoVariaveis", "2_CrinadoVariaveis\_2_CrinadoVariaveis.csproj", "{01DF9735-FB32-4D4E-BB41-58CE6200F9B5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_3_CriandoVariaveisPotoflutuante", "_3_CriandoVariaveisPotoflutuante\_3_CriandoVariaveisPotoflutuante.csproj", "{AF5888D6-6C11-41B5-A155-ECD9F2C93445}"
 EndProject
@@ -16,6 +16,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7_Condicionais", "_7_Condicionais\_7_Condicionais.csproj", "{6D620C6F-DF15-4A38-B4B3-043FF480D765}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_8_Condicionais-2", "_8_Condicionais-2\_8_Condicionais-2.csproj", "{B5DA619A-7F78-44C0-9995-2ED4A0932D50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_9_Escopo", "_9_Escopo\_9_Escopo.csproj", "{448A3CFA-CB94-4C76-A32C-F85EA8B21D67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_P10_ CalculaPopanca", "P10_ CalculaPopanca\_P10_ CalculaPopanca.csproj", "{3C5B0EB6-9462-4C44-BF3E-1D8B45D84CE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_P11_ CalculaPoupaca2", "_P11_ CalculaPoupaca2\_P11_ CalculaPoupaca2.csproj", "{885F36CC-4441-4BAD-9DDF-A7A7D18717A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{B5DA619A-7F78-44C0-9995-2ED4A0932D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5DA619A-7F78-44C0-9995-2ED4A0932D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5DA619A-7F78-44C0-9995-2ED4A0932D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{448A3CFA-CB94-4C76-A32C-F85EA8B21D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448A3CFA-CB94-4C76-A32C-F85EA8B21D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448A3CFA-CB94-4C76-A32C-F85EA8B21D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448A3CFA-CB94-4C76-A32C-F85EA8B21D67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C5B0EB6-9462-4C44-BF3E-1D8B45D84CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C5B0EB6-9462-4C44-BF3E-1D8B45D84CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C5B0EB6-9462-4C44-BF3E-1D8B45D84CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C5B0EB6-9462-4C44-BF3E-1D8B45D84CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{885F36CC-4441-4BAD-9DDF-A7A7D18717A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885F36CC-4441-4BAD-9DDF-A7A7D18717A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885F36CC-4441-4BAD-9DDF-A7A7D18717A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885F36CC-4441-4BAD-9DDF-A7A7D18717A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
